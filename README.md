@@ -33,9 +33,6 @@
   📌 $20.00 USD/ 1 month access
   📌 $15.00 USD/ 2 weeks access
 
-<img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="30px"/>
-</h1>
-
 
 🔍 Information
 
