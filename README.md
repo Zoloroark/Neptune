@@ -25,7 +25,7 @@
  
   Discord: Rdmo1#4104
   Telegram: t.me/@rdmo12
-  Buyers Review: https://t.me/s/rdmovouch
+  Customer Review: https://t.me/s/rdmovouch
   
   📌 $70.00 USD/ lifetime access
   📌 $50.00 USD/ 5 months access
@@ -33,23 +33,16 @@
   📌 $20.00 USD/ 1 month access
   📌 $15.00 USD/ 2 weeks access
 
-For payment information dm me on discord or telegram
+<img src="https://cdn3.emoji.gg/emojis/1716_PAYPAL.png" width="30px"/>
+</h1>
 
 
 🔍 Information
 
-   - The key only work on 1 device ( HWID LOCK ) you can ask me if
-     you want you're key to have more access in different device
-   - only buyer can access the real file
-   - cannot be cracked nor reverse the neptune tool
-   
-            ( DO NOT TRUST RE-SELLER )
- 
-   The KEY are control by ngrok server tunnel
-   i can add time, reduce time, & remove tool access
-   Many people complaining to me that they got scammed for buying the tool/key
-   don't be coming to me crying because you got scammed
-   i cant help you
+   ➜ The key only works on 1 device,  you can ask me if you want your key to have more access in different devices
+   ➜ Only the buyer can access the download link
+   ➜ Do not install cracked version or buy from different person
+         
  
 ```
 </p>
@@ -60,8 +53,8 @@ For payment information dm me on discord or telegram
 |Education Purpose Only.|
 |-------------------------------------------------|
 This project was created only for good purposes and personal use.
-Please be aware that your action have consequences.
-Becareful Using this tool, i am warning you to use this tool for Education Purpose Only 👀.
+Please be aware that your action has consequences.
+Be careful Using this tool, I am warning you to use this tool for Education Purpose Only.
 
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
@@ -72,12 +65,11 @@ Becareful Using this tool, i am warning you to use this tool for Education Purpo
 </p>
 
 ```
-watch video tutorial below
+⭐ Customer Review
+   https://t.me/rdmvouch
 ```
 
 <p align="center">
-
-  https://streamable.com/i5t5wk
   
 </p>
 
@@ -86,8 +78,8 @@ watch video tutorial below
 <p align="center">
 
 ```
- 🔧 Automatic Installation -    open setup.bat
- 🔧 Manual install -    pip install -r requirements.txt & python neptune.py
+ 🔧 Automatic Installation -    Launch setup.bat
+ 🔧 Manual Installation    -    pip install -r requirements.txt & python neptune.py
 ```
 </p>
 
