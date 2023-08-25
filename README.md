@@ -26,11 +26,11 @@
   Discord: Rdmo1#4104
   Telegram: t.me/@rdmo12
   
-  📌 $70.00 USD/ lifetime access
-  📌 $50.00 USD/ 5 months access
-  📌 $30.00 USD/ 3 months access
-  📌 $20.00 USD/ 1 month access
-  📌 $15.00 USD/ 1 week access
+  ➜ $70.00 USD | lifetime access
+  ➜ $50.00 USD | 5 months access
+  ➜ $30.00 USD | 3 months access
+  ➜ $20.00 USD | 1 month access
+  ➜ $15.00 USD | 1 week access
 
 
 🔍 Information
