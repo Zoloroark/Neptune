@@ -1,1 +1,16 @@
+TUTORIAL ON HOW TO SETUP NEPTUNE
 
+1. Delete previous python & Install latest python ( https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe )
+2. Make sure you Add Python to path. example ( 
+   https://cdn.discordapp.com/attachments/1134019187275210804/1144726126548221962/02A7nOyowsPsGI19pZT.png )
+3. Once installed extract Neptune Zip and open the folder
+4. Run setup.bat
+5. Wait for it to extract the requirements
+6. Paste the key
+7. And Enjoy!
+
+Virustotal: ( https://www.virustotal.com/gui/file/2b41c4ec4730511a33c6156eb5dbc28fb8aa941d0d2b5af81ed8c1cd1af3edce?nocache=1 )
+
+
+GOT ERROR OR BUG?
+Discord: Rdmo1#3020
