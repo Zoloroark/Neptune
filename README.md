@@ -25,13 +25,12 @@
  
   Discord: Rdmo1#4104
   Telegram: t.me/@rdmo12
-  Customer Review: https://t.me/s/rdmovouch
   
   📌 $70.00 USD/ lifetime access
   📌 $50.00 USD/ 5 months access
   📌 $30.00 USD/ 3 months access
   📌 $20.00 USD/ 1 month access
-  📌 $15.00 USD/ 2 weeks access
+  📌 $15.00 USD/ 1 week access
 
 
 🔍 Information
@@ -44,28 +43,28 @@
 ```
 </p>
 
+## Payment Option <img src="https://cdn3.emoji.gg/emojis/9852-takemymoney.gif" width="30px"/>
+
+<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/3712-bitcoin.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/4887-ltc.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.pnghttps://cdn3.emoji.gg/emojis/6168-giftcard.png" width="20px"/>
+
+⭐ Customer Review:
+   https://t.me/rdmovouch
+
+
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 |Education Purpose Only.|
 |-------------------------------------------------|
-This project was created only for good purposes and personal use.
-Please be aware that your action has consequences.
-Be careful Using this tool, I am warning you to use this tool for Education Purpose Only.
+This project was created only for good purposes and personal use
+Please be aware that your action has consequences
+Be careful using this tool, I am warning you to use this tool for Education Purpose Only.
 
 ## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
 </h1>
-
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1073238834478850100/1073853857249099796/image.png">
 </p>
-
-```
-⭐ Customer Review
-   https://t.me/rdmvouch
-```
-
 <p align="center">
   
 </p>
