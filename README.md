@@ -23,7 +23,7 @@
 ```  
  📨 Social
  
-  Discord: Rdmo1#4104
+  Discord: @rdmo1
   Telegram: t.me/@rdmo12
   
    $35.00 USD | lifetime access
