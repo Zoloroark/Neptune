@@ -23,7 +23,7 @@
 ```  
  📨 Social
  
-  Discord: Disabled, Making new account!
+  Discord: @rdmo11
   Telegram: t.me/@rdmo12
   
    $35.00 USD | lifetime access
